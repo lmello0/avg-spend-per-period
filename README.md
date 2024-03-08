@@ -13,7 +13,7 @@ com base no meu extrato do banco.
 
 1. Clone o repositório
     ```bash
-    git clone https://github.com/lmello0/avg_spend_per_period.git
+    git clone https://github.com/lmello0/avg-spend-per-period.git
     ```
 
 2. Instale as dependências:
